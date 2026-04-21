@@ -73,8 +73,6 @@ It transforms raw CSV data into **actionable insights**, enabling engineers and 
 
 ---
 
-## ⚙️ Setup Instructions
-
 ## 📌 Conclusion
 
 The RFI Dashboard is not just a visualization tool, but a decision-support system that enhances project monitoring through data intelligence and predictive insights.
