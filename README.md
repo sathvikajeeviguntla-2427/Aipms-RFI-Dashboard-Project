@@ -73,66 +73,7 @@ It transforms raw CSV data into **actionable insights**, enabling engineers and 
 
 ---
 
-## 📂 Project Structure
-
-
-src/
-│
-├── components/
-│ ├── Table/
-│ ├── Filters/
-│ ├── Charts/
-│ ├── Alerts/
-│ ├── Insights/
-│
-├── utils/
-│ ├── ruleEngine.js
-│ ├── predict.js
-│ ├── textAnalysis.js
-│
-├── App.js
-├── App.css
-
-
----
-
 ## ⚙️ Setup Instructions
-
-### 1️⃣ Clone the repository
-```bash
-git clone <your-repo-link>
-cd rfi-dashboard
-2️⃣ Install dependencies
-npm install
-3️⃣ Run the application
-npm start
-4️⃣ Open in browser
-http://localhost:3000
-📊 Dataset
-Input: CSV file (hackathon_rfi_dataset.csv)
-Contains RFI records including:
-ID
-Package
-Station
-Dates
-Status
-Remarks
-
-
-## 🧠 How It Works
-CSV data is loaded and parsed using PapaParse
-Data is cleaned and filtered
-Rule engine analyzes patterns and generates alerts
-Prediction module identifies upcoming risks
-Charts and insights visualize key metrics
-
-
-## 🚀 Future Enhancements
-AI Chat Assistant for querying data
-Dark mode toggle
-Real-time data integration
-Drill-down analytics
-Role-based access control
 
 ## 📌 Conclusion
 
